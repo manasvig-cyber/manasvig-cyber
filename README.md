@@ -1,20 +1,17 @@
 ## Hi, I'm Manasvi 
 
-🔐 Cyber Security Student  
-🎓 Bachelor of Engineering in CSE – Cyber Security  
-📍 Bangalore, Karnataka  
+🔐Tech Enthusiast<br/>
+🎓 Cyber Security Student | 🕵️‍♂️ Passionate about Ethical Hacking and security analysis <br/>
+Pursuing BE in Cyber Security
 
-Passionate about ethical hacking, vulnerability assessment, SOC operations, and digital forensics. Hands-on experience with real-world security labs, projects, and competitive cybersecurity environments.
+Key Strengths:<br/>
+🧩 Security Analysis – Deep understanding of Networking and Vulnerability assessment <br/>
+🧰 Tools Proficient – Wireshark, Nmap, Burp Suite & more<br/>
+💻 Currently sharpening my skills on PortSwigger, TryHackMe, and Hack The Box 💥<br/>
 
----
 
-### 🧠 Key Strengths
-
-🧩 Security Analysis – Networking, log analysis, vulnerability assessment  
-🧰 Security Tools – SIEM, SOAR, EDR, Wireshark, Nmap, Burp Suite, Nessus  
-💻 Practical Learning – Ethical hacking labs, SOC-style investigations, phishing simulations  
-
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manasvi-v-7a1412324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manasviprof@gmail.com) 
 
 ## 💻 Tech Stack
 
@@ -22,50 +19,18 @@ Passionate about ethical hacking, vulnerability assessment, SOC operations, and 
   <img src="https://skillicons.dev/icons?i=python,bash,cpp,java,powershell,kali,linux,git&theme=dark&perline=8" />
 </p>
 
----
-## 🌐 Socials
+#⚡Current Statistics⚡
+![](https://github-readme-stats.vercel.app/api?username=manasvig-cyber&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=manasvig-cyber&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasvig-cyber&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasvi-v-7a1412324/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manasviprof@gmail.com)
+### ✍️Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-
-## 🚀 Projects
-
-### 🧠 AI-Based Intrusion & Behaviour Anomaly Detection System  
-**SOC Dashboard | Log Analysis**
-
-- Continuously collects authentication, session, and activity logs  
-- Builds a dynamic baseline of normal user behavior  
-- Detects anomalies based on login time, location, device fingerprint, and interaction patterns in real time  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manasvig-cyber&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### 🎣 Phishing Simulation – Credential Replication & Login Abuse  
-**Incident Investigation | Awareness Simulation**
-
-- Replicates real-world phishing login interfaces to analyze user behavior  
-- Tracks credential submission attempts and login abuse patterns  
-- Demonstrates attacker workflows to improve SOC detection logic and user awareness  
-
----
-
-### 🔍 Port Scanner for CLI  
-**Network Monitoring Tool**
-
-- Scans IP ranges to identify open ports and active services  
-- Maps exposed services and highlights security misconfigurations  
-- Helps SOC analysts correlate reconnaissance activity with potential threats  
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=manasvig-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
