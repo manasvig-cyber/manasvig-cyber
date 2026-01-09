@@ -16,7 +16,7 @@ Key Strengths:<br/>
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,cpp,java,powershell,kali,linux,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,bash,cpp,java,powershell,kali,linux,git&theme=dark&perline=20" />
 </p>
 #⚡Current Statistics⚡
 ![](https://github-readme-stats.vercel.app/api?username=manasvig-cyber&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
