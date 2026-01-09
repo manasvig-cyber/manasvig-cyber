@@ -19,10 +19,20 @@ Key Strengths:<br/>
   <img src="https://skillicons.dev/icons?i=python,bash,cpp,java,powershell,kali,linux,git&theme=dark&perline=8" />
 </p>
 
-###⚡Current Statistics⚡
-![](https://github-readme-stats.vercel.app/api?username=manasvig-cyber&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manasvig-cyber&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasvig-cyber&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## ⚡ Current Statistics ⚡
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasvig-cyber&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=manasvig-cyber&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvig-cyber&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
 
 ### ✍️Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
