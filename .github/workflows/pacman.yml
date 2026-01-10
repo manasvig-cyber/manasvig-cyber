@@ -1,5 +1,6 @@
 permissions:
   contents: write
+  packages: read
 
 name: Generate Pacman Contribution Graph
 
@@ -11,18 +12,22 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
+      # 🔐 Login to GitHub Container Registry
+      - name: Login to GHCR
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+
+      # 🎮 Generate Pacman SVG
       - name: Generate Pacman SVG
         run: |
           docker run --rm \
-            -e GITHUB_USER=manasvig-cyber \
-            -v ${{ github.workspace }}:/work \
             ghcr.io/platane/pacman-contribution-graph:latest \
+            --github-user manasvig-cyber \
             --output /work/output/pacman-contribution-graph.svg
 
+      # 🚀 Push SVG to output branch
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
