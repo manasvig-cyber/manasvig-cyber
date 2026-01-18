@@ -1,25 +1,32 @@
-## Hi, I'm Manasvi 
+## Hi, I'm Manasvi 👋  
 
-🔐Tech Enthusiast<br/>
-🎓 Cyber Security Student | 🕵️‍♂️ Passionate about Ethical Hacking and security analysis <br/>
-Pursuing BE in Cyber Security
+🔐 Tech Enthusiast  
+🎓 Cyber Security Student | 🕵️‍♂️ Passionate about Ethical Hacking and Security Analysis  
+📚 Pursuing BE in Cyber Security  
 
-Key Strengths:<br/>
-🧩 Security Analysis – Deep understanding of Networking and Vulnerability assessment <br/>
-🧰 Tools Proficient – Wireshark, Nmap, Burp Suite & more<br/>
-💻 Currently sharpening my skills on PortSwigger, TryHackMe, and Hack The Box 💥<br/>
+---
 
+### 🔑 Key Strengths
+🧩 Security Analysis – Deep understanding of Networking and Vulnerability Assessment  
+🧰 Tools Proficient – Wireshark, Nmap, Burp Suite & more  
+💻 Currently sharpening my skills on PortSwigger, TryHackMe, and Hack The Box 💥  
+
+---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manasvi-v-7a1412324/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/thecyber.kids/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manasviprof@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasvi-v-7a1412324/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/thecyber.kids/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manasviprof@gmail.com)
 
-## 💻Tech Stack
+---
 
+## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,cpp,java,powershell,kali,linux,git&theme=dark&perline=8" />
 </p>
 
-## ⚡Current Statistics
+---
+
+## ⚡ Current Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manasvig-cyber&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
@@ -32,13 +39,14 @@ Key Strengths:<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvig-cyber&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
-
-### ✍️Quote of the Day
 ---
+
+## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🕹️ Contribution Game
 ---
+
+## 🕹️ Contribution Game
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/manasvig-cyber/manasvig-cyber/output/pacman-contribution-graph-dark.svg">
@@ -47,6 +55,3 @@ Key Strengths:<br/>
   <img alt="pacman contribution graph" 
        src="https://raw.githubusercontent.com/manasvig-cyber/manasvig-cyber/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
