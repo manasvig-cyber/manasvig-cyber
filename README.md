@@ -48,6 +48,5 @@ Key Strengths:<br/>
        src="https://raw.githubusercontent.com/manasvig-cyber/manasvig-cyber/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 
