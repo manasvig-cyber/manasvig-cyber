@@ -35,11 +35,11 @@ Key Strengths:<br/>
 
 
 ### ✍️Quote of the Day
----
+--
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🕹️ Contribution Game
-
+--
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/manasvig-cyber/manasvig-cyber/output/pacman-contribution-graph-dark.svg">
