@@ -35,7 +35,7 @@ Key Strengths:<br/>
 
 
 ### ✍️Quote of the Day
-
+---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🕹️ Contribution Game
