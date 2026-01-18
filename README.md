@@ -20,7 +20,6 @@ Key Strengths:<br/>
 </p>
 
 ## ⚡ Current Statistics ⚡
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manasvig-cyber&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
