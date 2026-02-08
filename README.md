@@ -22,9 +22,6 @@
   <img src="https://skillicons.dev/icons?i=python,bash,cpp,java,powershell,kali,linux,git&theme=dark&perline=8" />
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4233337" style='border:none;'></iframe>
-
-
 ## ⚡ Current Statistics
 
 <p align="center">
